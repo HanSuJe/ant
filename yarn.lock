@@ -10300,6 +10300,16 @@ thread-loader@^2.1.2:
     loader-utils "^1.1.0"
     neo-async "^2.6.0"
 
+three-dxf@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/three-dxf/-/three-dxf-0.3.1.tgz#fe941caa457b5cbdaef41f0bc01c4d30e40a807b"
+  integrity sha1-/pQcqkV7XL2u9B8LwBxNMOQKgHs=
+
+three@^0.137.0:
+  version "0.137.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.137.0.tgz#0ebd6ba66637a332c31f234bcdd35aeec071a6e3"
+  integrity sha512-rzSDhia6cU35UCy6y+zEEws6vSgytfHqFMSaBvUcySgzwvDO6vETyswtSNi/+aVqJw8WLMwyT1mlQQ1T/dxxOA==
+
 throat@^4.0.0:
   version "4.1.0"
   resolved "https://registry.npmjs.org/throat/-/throat-4.1.0.tgz#89037cbc92c56ab18926e6ba4cbb200e15672a6a"
